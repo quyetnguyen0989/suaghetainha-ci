@@ -29,15 +29,22 @@
                             </style>
             <script type="text/javascript">
                 var yith_wcwl_plugin_ajax_web_url = 'http://suaghemassagetainha.com/wp-admin/admin-ajax.php';
-                var login_redirect_url = 'http://suaghemassagetainha.com/wp-login.php?redirect_to=%2F';
+                var login_redirect_url = 'http://suaghemassagetainha.com/wp-login.php?redirect_to=%2Fstatic-block-items%2Fbest-sellers%2F';
             </script>
             
     <!--[if lte IE 8]>
     <link rel="stylesheet" href="http://suaghemassagetainha.com/wp-content/themes/venedor/css/ie8.css" />
     <![endif]-->
-            <style type="text/css">
-                .animated { visibility:hidden; }
-            </style>
+                <style type="text/css">
+                .animated {
+                    visibility:visible !important;
+                    -webkit-transition: none !important;
+                    -moz-transition: none !important;
+                    -o-transition: none !important;
+                    -ms-transition: none !important;
+                    transition: none !important;
+                }
+                </style>
                     <!--[if lt IE 10]>
     <style type="text/css">
     .animated {
@@ -52,27 +59,26 @@
     <![endif]-->
 
 <!-- This site is optimized with the Yoast SEO plugin v3.1.2 - https://yoast.com/wordpress/plugins/seo/ -->
-<title>Sửa ghế massage uy tín chuyên nghiệp nhanh chóng</title>
-<meta name="description" content="sửa ghế massage, sửa chữa ghế massage uy tín, sửa ghế massage ở TP.HCM, Hà Nội, các tỉnh Miền Nam, Miền Bắc, Hotline : 0942.111.121"/>
+<title>Best Sellers &raquo; Sửa ghế massage || Sửa chữa ghế massage || Thay da ghế massage uy tín chất lượng</title>
+<meta name="description" content="sửa ghế massage, máy chạy bộ, thay da ghế massage, uy tín có bảo hành ở Tp.hcm và toàn quốc hotline: 094 2111121"/>
 <meta name="robots" content="noodp"/>
-<meta name="keywords" content="sửa chữa ghế massage uy tín chuyên nghiệp"/>
-<link rel="canonical" href="http://suaghemassagetainha.com/" />
+<meta name="keywords" content="sửa ghế massage, máy chạy bộ, thay da ghế massage, uy tín có bảo hành ở Tp.hcm và toàn quốc"/>
+<link rel="canonical" href="http://suaghemassagetainha.com/static-block-items/best-sellers/" />
 <link rel="publisher" href="https://plus.google.com/+Suaghemassagetainha/"/>
 <meta property="og:locale" content="vi_VN" />
-<meta property="og:type" content="website" />
-<meta property="og:title" content="Sửa ghế massage uy tín chuyên nghiệp nhanh chóng" />
-<meta property="og:description" content="sửa ghế massage, sửa chữa ghế massage uy tín, sửa ghế massage ở TP.HCM, Hà Nội, các tỉnh Miền Nam, Miền Bắc, Hotline : 0942.111.121" />
-<meta property="og:url" content="http://suaghemassagetainha.com/" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Best Sellers &raquo; Sửa ghế massage || Sửa chữa ghế massage || Thay da ghế massage uy tín chất lượng" />
+<meta property="og:description" content="sửa ghế massage, máy chạy bộ, thay da ghế massage, uy tín có bảo hành ở Tp.hcm và toàn quốc hotline: 094 2111121" />
+<meta property="og:url" content="http://suaghemassagetainha.com/static-block-items/best-sellers/" />
 <meta property="og:site_name" content="Sửa ghế massage || Sửa chữa ghế massage || Thay da ghế massage uy tín chất lượng" />
+<meta property="article:publisher" content="https://www.facebook.com/suaghemassagetainha/" />
 <meta name="twitter:card" content="summary" />
-<meta name="twitter:description" content="sửa ghế massage, sửa chữa ghế massage uy tín, sửa ghế massage ở TP.HCM, Hà Nội, các tỉnh Miền Nam, Miền Bắc, Hotline : 0942.111.121" />
-<meta name="twitter:title" content="Sửa ghế massage uy tín chuyên nghiệp nhanh chóng" />
-<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","url":"http:\/\/suaghemassagetainha.com\/","name":"S\u1eeda gh\u1ebf massage || S\u1eeda ch\u1eefa gh\u1ebf massage || Thay da gh\u1ebf massage uy t\u00edn ch\u1ea5t l\u01b0\u1ee3ng","potentialAction":{"@type":"SearchAction","target":"http:\/\/suaghemassagetainha.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<meta name="twitter:description" content="sửa ghế massage, máy chạy bộ, thay da ghế massage, uy tín có bảo hành ở Tp.hcm và toàn quốc hotline: 094 2111121" />
+<meta name="twitter:title" content="Best Sellers &raquo; Sửa ghế massage || Sửa chữa ghế massage || Thay da ghế massage uy tín chất lượng" />
 <!-- / Yoast SEO plugin. -->
 
 <link rel="alternate" type="application/rss+xml" title="Dòng thông tin Sửa ghế massage || Sửa chữa ghế massage || Thay da ghế massage uy tín chất lượng &raquo;" href="http://suaghemassagetainha.com/feed/" />
 <link rel="alternate" type="application/rss+xml" title="Dòng phản hồi Sửa ghế massage || Sửa chữa ghế massage || Thay da ghế massage uy tín chất lượng &raquo;" href="http://suaghemassagetainha.com/comments/feed/" />
-<link rel="alternate" type="application/rss+xml" title="Sửa ghế massage || Sửa chữa ghế massage || Thay da ghế massage uy tín chất lượng &raquo; Trang chủ Dòng phản hồi" href="http://suaghemassagetainha.com/home/trang-chu/feed/" />
 		<script type="text/javascript">
 			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/suaghemassagetainha.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.4.2"}};
 			!function(a,b,c){function d(a){var c,d=b.createElement("canvas"),e=d.getContext&&d.getContext("2d"),f=String.fromCharCode;return e&&e.fillText?(e.textBaseline="top",e.font="600 32px Arial","flag"===a?(e.fillText(f(55356,56806,55356,56826),0,0),d.toDataURL().length>3e3):"diversity"===a?(e.fillText(f(55356,57221),0,0),c=e.getImageData(16,16,1,1).data.toString(),e.fillText(f(55356,57221,55356,57343),0,0),c!==e.getImageData(16,16,1,1).data.toString()):("simple"===a?e.fillText(f(55357,56835),0,0):e.fillText(f(55356,57135),0,0),0!==e.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8"),diversity:d("diversity")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8&&c.supports.diversity||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
@@ -99,7 +105,6 @@ img.emoji {
 <link rel='stylesheet' id='plugins-css'  href='http://suaghemassagetainha.com/wp-content/themes/venedor/css/plugins.css?ver=4.4.2' type='text/css' media='all' />
 <link rel='stylesheet' id='venedor-styles-css'  href='http://suaghemassagetainha.com/wp-content/themes/venedor/css/styles.css?ver=4.4.2' type='text/css' media='all' />
 <link rel='stylesheet' id='system-css'  href='http://suaghemassagetainha.com/wp-content/themes/venedor/_config/system_1.css?ver=4.4.2' type='text/css' media='all' />
-<link rel='stylesheet' id='animate-css'  href='http://suaghemassagetainha.com/wp-content/themes/venedor/css/animate.css?ver=4.4.2' type='text/css' media='all' />
 <link rel='stylesheet' id='style-css'  href='http://suaghemassagetainha.com/wp-content/themes/venedor/style.css?ver=4.4.2' type='text/css' media='all' />
 <link rel='stylesheet' id='ebs_dynamic_css-css'  href='http://suaghemassagetainha.com/wp-content/plugins/easy-bootstrap-shortcodes/styles/ebs_dynamic_css.php?ver=4.4.2' type='text/css' media='all' />
 <link rel='stylesheet' id='redux-google-fonts-css'  href='http://fonts.googleapis.com/css?family=Gudea%3A400&#038;ver=1449762726' type='text/css' media='all' />
@@ -110,7 +115,9 @@ img.emoji {
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://suaghemassagetainha.com/wp-includes/wlwmanifest.xml" /> 
 <meta name="generator" content="WordPress 4.4.2" />
 <meta name="generator" content="WooCommerce 2.2.10" />
-<link rel='shortlink' href='http://suaghemassagetainha.com/' />
+<link rel='shortlink' href='http://suaghemassagetainha.com/?p=1371' />
+<link rel="alternate" type="application/json+oembed" href="http://suaghemassagetainha.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fsuaghemassagetainha.com%2Fstatic-block-items%2Fbest-sellers%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://suaghemassagetainha.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fsuaghemassagetainha.com%2Fstatic-block-items%2Fbest-sellers%2F&#038;format=xml" />
 
     <!--[if lt IE 9]>
         <script type="text/javascript" src="http://suaghemassagetainha.com/wp-content/themes/venedor/js/ie8.js"></script>
@@ -123,7 +130,7 @@ img.emoji {
 
 
 
-<body class="home page page-id-1869 page-child parent-pageid-532 page-template-default ">
+<body class="single single-block postid-1371 ">
     
     
     <div id="wrapper" class="wrapper-full"><!-- wrapper -->
@@ -168,7 +175,7 @@ img.emoji {
             
                                 <!-- main menu -->
     <div id="main-menu" class="mega-menu">
-    <ul id="menu-main-menu" class=""><li id="nav-menu-item-2303" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1869 current_page_item active narrow "><a href="http://suaghemassagetainha.com/" class=" current ">Home</a></li>
+    <ul id="menu-main-menu" class=""><li id="nav-menu-item-2303" class="menu-item menu-item-type-post_type menu-item-object-page  narrow "><a href="http://suaghemassagetainha.com/" class="">Home</a></li>
 <li id="nav-menu-item-2219" class="menu-item menu-item-type-post_type menu-item-object-page  narrow "><a href="http://suaghemassagetainha.com/sua-may-chay-bo/" class="">Sửa máy chạy bộ</a></li>
 <li id="nav-menu-item-2715" class="menu-item menu-item-type-post_type menu-item-object-page  narrow "><a href="http://suaghemassagetainha.com/thay-da-ghe-massage/" class="">Thay da ghế massage</a></li>
 <li id="nav-menu-item-2714" class="menu-item menu-item-type-post_type menu-item-object-page  narrow "><a href="http://suaghemassagetainha.com/sua-chua-ghe-massage/" class="">Sửa chữa ghế massage</a></li>
@@ -191,7 +198,7 @@ img.emoji {
                 <span class="icon-bar"></span>
             </span>
         </div>
-        <div class="accordion-menu"><ul id="menu-main-menu-1" class=""><li id="accordion-menu-item-2303" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1869 current_page_item active"><a href="http://suaghemassagetainha.com/" class=" current ">Home</a><span class="arrow"></span></li>
+        <div class="accordion-menu"><ul id="menu-main-menu-1" class=""><li id="accordion-menu-item-2303" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="http://suaghemassagetainha.com/" class="">Home</a><span class="arrow"></span></li>
 <li id="accordion-menu-item-2219" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="http://suaghemassagetainha.com/sua-may-chay-bo/" class="">Sửa máy chạy bộ</a><span class="arrow"></span></li>
 <li id="accordion-menu-item-2715" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="http://suaghemassagetainha.com/thay-da-ghe-massage/" class="">Thay da ghế massage</a><span class="arrow"></span></li>
 <li id="accordion-menu-item-2714" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="http://suaghemassagetainha.com/sua-chua-ghe-massage/" class="">Sửa chữa ghế massage</a><span class="arrow"></span></li>
@@ -257,7 +264,7 @@ img.emoji {
                     
                                 <!-- main menu -->
     <div id="main-menu" class="mega-menu">
-    <ul id="menu-main-menu-2" class=""><li id="nav-menu-item-2303" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1869 current_page_item active narrow "><a href="http://suaghemassagetainha.com/" class=" current ">Home</a></li>
+    <ul id="menu-main-menu-2" class=""><li id="nav-menu-item-2303" class="menu-item menu-item-type-post_type menu-item-object-page  narrow "><a href="http://suaghemassagetainha.com/" class="">Home</a></li>
 <li id="nav-menu-item-2219" class="menu-item menu-item-type-post_type menu-item-object-page  narrow "><a href="http://suaghemassagetainha.com/sua-may-chay-bo/" class="">Sửa máy chạy bộ</a></li>
 <li id="nav-menu-item-2715" class="menu-item menu-item-type-post_type menu-item-object-page  narrow "><a href="http://suaghemassagetainha.com/thay-da-ghe-massage/" class="">Thay da ghế massage</a></li>
 <li id="nav-menu-item-2714" class="menu-item menu-item-type-post_type menu-item-object-page  narrow "><a href="http://suaghemassagetainha.com/sua-chua-ghe-massage/" class="">Sửa chữa ghế massage</a></li>
@@ -289,8 +296,12 @@ img.emoji {
         <!-- banner -->
                         <!-- end banner -->
 
+                <div class="breadcrumbs"><!-- breadcrumbs -->
+            <div class="container">
+                <ul><li><a class="home" href="http://suaghemassagetainha.com">Home</a></li><li><span>&gt;</span></li><li><a href="">Block</a></li><li><span>&gt;</span></li><li>Best Sellers</li></ul>            </div>
+        </div><!-- end breadcrumbs -->
         
-        <div id="main" class="column2 column2-left-sidebar no-breadcrumbs"><!-- main -->
+        <div id="main" class="column2 column2-left-sidebar"><!-- main -->
 
             
                         <div class="container">
@@ -298,73 +309,49 @@ img.emoji {
                                                     <div class="main-content col-sm-8 col-md-9">
                                             <!-- main content -->
                                                                                                                                                                                         
-    <div id="content" class="site-content" role="main">
-                        
-            <article id="post-1869" class="post-1869 page type-page status-publish hentry">
-                <header class="entry-header">
-                    
-                                    </header><!-- .entry-header -->
 
-                <div class="entry-content">
-                    <p>Sửa ghế massage, sửa chữa ghế massage uy tín, sửa ghế massage ở TP.HCM, Hà Nội, các tỉnh Miền Nam, Miền Bắc,</p>
-<p>Gọi cho chúng tôi để được tư vấn về kỹ thuật về ghế massage, và báo giá miễn phí Hotline : 0942.111.121</p>
-    
+<div id="content" role="main">
+
+            
+            <div id="post-1371" class="post post-1371 block type-block status-publish hentry">
+
+                        <h1 class="entry-title"><span class="inline-title">Blog Post</span><span class="line"></span></h1>
+        <div class="single-nav clearfix">
+            <a href="http://suaghemassagetainha.com/static-block-items/features-2/" rel="prev"><span class="prev"></span></a>            <a href="http://suaghemassagetainha.com/static-block-items/ads-orange/" rel="next"><span class="next"></span></a>        </div>
+                
+                                
+        <div class="post-content-wrap">
+            <div class="post-info medium-alt none-slideshow">
+                <div class="post-date">
+                    <span class="post-date-day">07</span>
+                    <span class="post-date-month">Th5</span>
+                </div>
+                            </div>
+            <div class="post-content medium-alt none-slideshow">
+            
+                                        
+                <h2 class="entry-title">Best Sellers</h2>
+                
+                <div class="entry-meta">
+                    <div class="meta-item meta-author"><div class="meta-inner"><span class="fa fa-user"></span> By <a href="http://suaghemassagetainha.com/author/admin/" title="Đăng bởi admin" rel="author">admin</a></div></div>
+                    <div class="meta-item meta-comments"><div class="meta-inner"><span class="fa fa-comments"></span> <span>Chức năng bình luận bị tắt<span class="screen-reader-text"> ở Best Sellers</span></span></div></div>
+                    <div class="meta-item meta-cats"><div class="meta-inner"><span class="fa fa-folder-open"></span> </div></div>
+                </div>
+                            
+                <div class="entry-content">                    
+                        
             
         
-            <div class="shortcode shortcode-products latests products grid calc-height notitle    "
+            <div class="shortcode shortcode-products bestsellers products product-slider notitle   single  "
                 >
 
                 
                 
                 <div class="product-row">
-<ul class="products row clearfix products-narrow calc-height use-icon noprice-on-image show-desc">
+<div class="products grid row clearfix products-narrow calc-height use-icon product-carousel owl-carousel noprice-on-image show-desc">
 
                     
-                        <li class="col-md-4 col-sm-6 post-3031 product type-product status-publish has-post-thumbnail product_cat-sua-chua-ghe-massage product_cat-sua-ghe-massage shipping-taxable product-type-simple product-cat-sua-chua-ghe-massage product-cat-sua-ghe-massage instock">
-    
-    <div class="inner clearfix">
-    
-	    
-	    <a href="http://suaghemassagetainha.com/san-pham/dich-vu-thay-da-cac-loai-ghe-massage/">
-
-		    <span class="product-image no-image"><img width="228" height="228" src="http://suaghemassagetainha.com/wp-content/uploads/2015/12/dich-vu-thay-da-ghe-massage-228x228.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="thay da ghe massage" srcset="http://suaghemassagetainha.com/wp-content/uploads/2015/12/dich-vu-thay-da-ghe-massage-128x128.jpg 128w, http://suaghemassagetainha.com/wp-content/uploads/2015/12/dich-vu-thay-da-ghe-massage-228x228.jpg 228w, http://suaghemassagetainha.com/wp-content/uploads/2015/12/dich-vu-thay-da-ghe-massage-560x560.jpg 560w, http://suaghemassagetainha.com/wp-content/uploads/2015/12/dich-vu-thay-da-ghe-massage-400x400.jpg 400w, http://suaghemassagetainha.com/wp-content/uploads/2015/12/dich-vu-thay-da-ghe-massage.jpg 600w" sizes="(max-width: 228px) 100vw, 228px" />        <div class="figcaption">
-            <span class="btn btn-arrow quickview-button top-right" data-id="3031"><span class="fa fa-search"></span></span>
-        </div>
-    </span>
-		    
-
-	    </a>
-        
-                
-        <div class="product-details">
-        
-            <a href="http://suaghemassagetainha.com/san-pham/dich-vu-thay-da-cac-loai-ghe-massage/"><h3>Dịch vụ thay da các loại ghế massage 0942.111.121. (Mr.Nam)</h3></a>
-            
-	        
-<div itemprop="description" class="description">
-	<p>Ghế massage sau 1 thời gian sử dụng sẽ bị lão hoá, biểu hiện là phần bề mặt da bị bong tróc gây ngứa da khi ngồi, mức độ bong nhiều gây mất thẩm mỹ, làm giảm giá trị sử dụng cũng như giá trị của thật của 1 sản phẩm chăm sóc sức khỏe cao cấp như ghế massage. Lí do của sự bong tróc này là do chất lượng của lớp áo da không được tốt, và quan trọng là không phù hợp với khí hậu tại Việt Nam chúng ta.</p>
-</div><div class="add-links-wrap">
-
-    <a href="http://suaghemassagetainha.com/san-pham/dich-vu-thay-da-cac-loai-ghe-massage/" rel="nofollow" data-product_id="3031" data-product_sku="" data-quantity="1" class="button cart-links  product_type_simple">Xem tiếp</a>        <div class="add-links show-all">
-        <div class="add-links-item"><div class="yith-wcwl-add-to-wishlist"><div class="yith-wcwl-add-button show"><a href="http://suaghemassagetainha.com/wp-content/plugins/yith-woocommerce-wishlist/yith-wcwl-ajax.php?action=add_to_wishlist&#038;add_to_wishlist=3031" data-product-id="3031" data-product-type="simple" class="add_to_wishlist" >Thêm vào yêu thích</a><img src="http://suaghemassagetainha.com/wp-admin/images/wpspin_light.gif" class="ajax-loading" alt="loading" width="16" height="16" style="visibility:hidden" /></div><div class="yith-wcwl-wishlistaddedbrowse hide" style="display:none;"><span class="feedback">Product added!</span> <a href="http://suaghemassagetainha.com/wishlist/">Browse Wishlist</a></div><div class="yith-wcwl-wishlistexistsbrowse hide" style="display:none"><span class="feedback">The product is already in the wishlist!</span> <a href="http://suaghemassagetainha.com/wishlist/">Browse Wishlist</a></div><div style="clear:both"></div><div class="yith-wcwl-wishlistaddresponse"></div></div><div class="clear"></div>    <script type="text/javascript">
-        if( !jQuery( '#yith-wcwl-popup-message' ).length ) {
-            jQuery( 'body' ).prepend(
-                '<div id="yith-wcwl-popup-message" style="display:none;">' +
-                    '<div id="yith-wcwl-message"></div>' +
-                    '</div>'
-            );
-        }
-    </script>
-    </div><div class="add-links-item"><a href="/?action=yith-woocompare-add-product&amp;id=3031&amp;_wpnonce=56cc69d0a6" class="compare button" data-product_id="3031">So sánh</a></div>        </div>
-    </div>            
-        </div>
-        
-    </div>
-
-</li>
-
-                    
-                        <li class="col-md-4 col-sm-6 post-3030 product type-product status-publish has-post-thumbnail shipping-taxable product-type-simple instock">
+                        <div class="post-3030 product type-product status-publish has-post-thumbnail shipping-taxable product-type-simple instock">
     
     <div class="inner clearfix">
     
@@ -412,16 +399,60 @@ Hotline: 0942.111.121</p>
             );
         }
     </script>
-    </div><div class="add-links-item"><a href="/?action=yith-woocompare-add-product&amp;id=3030&amp;_wpnonce=56cc69d0a6" class="compare button" data-product_id="3030">So sánh</a></div>        </div>
+    </div><div class="add-links-item"><a href="/static-block-items/best-sellers/?action=yith-woocompare-add-product&amp;id=3030&amp;_wpnonce=56cc69d0a6" class="compare button" data-product_id="3030">So sánh</a></div>        </div>
     </div>            
         </div>
         
     </div>
 
-</li>
+</div>
 
                     
-                        <li class="col-md-4 col-sm-6 post-2961 product type-product status-publish has-post-thumbnail product_cat-sua-ghe-massage shipping-taxable product-type-simple product-cat-sua-ghe-massage instock">
+                        <div class="post-3031 product type-product status-publish has-post-thumbnail product_cat-sua-chua-ghe-massage product_cat-sua-ghe-massage shipping-taxable product-type-simple product-cat-sua-chua-ghe-massage product-cat-sua-ghe-massage instock">
+    
+    <div class="inner clearfix">
+    
+	    
+	    <a href="http://suaghemassagetainha.com/san-pham/dich-vu-thay-da-cac-loai-ghe-massage/">
+
+		    <span class="product-image no-image"><img width="228" height="228" src="http://suaghemassagetainha.com/wp-content/uploads/2015/12/dich-vu-thay-da-ghe-massage-228x228.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="thay da ghe massage" srcset="http://suaghemassagetainha.com/wp-content/uploads/2015/12/dich-vu-thay-da-ghe-massage-128x128.jpg 128w, http://suaghemassagetainha.com/wp-content/uploads/2015/12/dich-vu-thay-da-ghe-massage-228x228.jpg 228w, http://suaghemassagetainha.com/wp-content/uploads/2015/12/dich-vu-thay-da-ghe-massage-560x560.jpg 560w, http://suaghemassagetainha.com/wp-content/uploads/2015/12/dich-vu-thay-da-ghe-massage-400x400.jpg 400w, http://suaghemassagetainha.com/wp-content/uploads/2015/12/dich-vu-thay-da-ghe-massage.jpg 600w" sizes="(max-width: 228px) 100vw, 228px" />        <div class="figcaption">
+            <span class="btn btn-arrow quickview-button top-right" data-id="3031"><span class="fa fa-search"></span></span>
+        </div>
+    </span>
+		    
+
+	    </a>
+        
+                
+        <div class="product-details">
+        
+            <a href="http://suaghemassagetainha.com/san-pham/dich-vu-thay-da-cac-loai-ghe-massage/"><h3>Dịch vụ thay da các loại ghế massage 0942.111.121. (Mr.Nam)</h3></a>
+            
+	        
+<div itemprop="description" class="description">
+	<p>Ghế massage sau 1 thời gian sử dụng sẽ bị lão hoá, biểu hiện là phần bề mặt da bị bong tróc gây ngứa da khi ngồi, mức độ bong nhiều gây mất thẩm mỹ, làm giảm giá trị sử dụng cũng như giá trị của thật của 1 sản phẩm chăm sóc sức khỏe cao cấp như ghế massage. Lí do của sự bong tróc này là do chất lượng của lớp áo da không được tốt, và quan trọng là không phù hợp với khí hậu tại Việt Nam chúng ta.</p>
+</div><div class="add-links-wrap">
+
+    <a href="http://suaghemassagetainha.com/san-pham/dich-vu-thay-da-cac-loai-ghe-massage/" rel="nofollow" data-product_id="3031" data-product_sku="" data-quantity="1" class="button cart-links  product_type_simple">Xem tiếp</a>        <div class="add-links show-all">
+        <div class="add-links-item"><div class="yith-wcwl-add-to-wishlist"><div class="yith-wcwl-add-button show"><a href="http://suaghemassagetainha.com/wp-content/plugins/yith-woocommerce-wishlist/yith-wcwl-ajax.php?action=add_to_wishlist&#038;add_to_wishlist=3031" data-product-id="3031" data-product-type="simple" class="add_to_wishlist" >Thêm vào yêu thích</a><img src="http://suaghemassagetainha.com/wp-admin/images/wpspin_light.gif" class="ajax-loading" alt="loading" width="16" height="16" style="visibility:hidden" /></div><div class="yith-wcwl-wishlistaddedbrowse hide" style="display:none;"><span class="feedback">Product added!</span> <a href="http://suaghemassagetainha.com/wishlist/">Browse Wishlist</a></div><div class="yith-wcwl-wishlistexistsbrowse hide" style="display:none"><span class="feedback">The product is already in the wishlist!</span> <a href="http://suaghemassagetainha.com/wishlist/">Browse Wishlist</a></div><div style="clear:both"></div><div class="yith-wcwl-wishlistaddresponse"></div></div><div class="clear"></div>    <script type="text/javascript">
+        if( !jQuery( '#yith-wcwl-popup-message' ).length ) {
+            jQuery( 'body' ).prepend(
+                '<div id="yith-wcwl-popup-message" style="display:none;">' +
+                    '<div id="yith-wcwl-message"></div>' +
+                    '</div>'
+            );
+        }
+    </script>
+    </div><div class="add-links-item"><a href="/static-block-items/best-sellers/?action=yith-woocompare-add-product&amp;id=3031&amp;_wpnonce=56cc69d0a6" class="compare button" data-product_id="3031">So sánh</a></div>        </div>
+    </div>            
+        </div>
+        
+    </div>
+
+</div>
+
+                    
+                        <div class="post-2961 product type-product status-publish has-post-thumbnail product_cat-sua-ghe-massage shipping-taxable product-type-simple product-cat-sua-ghe-massage instock">
     
     <div class="inner clearfix">
     
@@ -456,58 +487,238 @@ Hotline: 0942.111.121</p>
             );
         }
     </script>
-    </div><div class="add-links-item"><a href="/?action=yith-woocompare-add-product&amp;id=2961&amp;_wpnonce=56cc69d0a6" class="compare button" data-product_id="2961">So sánh</a></div>        </div>
+    </div><div class="add-links-item"><a href="/static-block-items/best-sellers/?action=yith-woocompare-add-product&amp;id=2961&amp;_wpnonce=56cc69d0a6" class="compare button" data-product_id="2961">So sánh</a></div>        </div>
     </div>            
         </div>
         
     </div>
 
-</li>
+</div>
 
                     
-                </ul>
+                </div>
 </div>
             </div>
 
         
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-                    <div class="">
-                                        </div>
-                </div><!-- .entry-content -->
+                    
+                                                        </div>
                 
-            </article><!-- #post -->
+                                <div class="entry-author clearfix">
+                    <div class="avatar">
+                        <img alt='' src='http://1.gravatar.com/avatar/d0187a57b217e58158fd1631454fb6d1?s=145&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/d0187a57b217e58158fd1631454fb6d1?s=290&amp;d=mm&amp;r=g 2x' class='avatar avatar-145 photo' height='145' width='145' />                    </div>
+                    <div class="author-content">
+                        <div class="title"><h3>About the Author: <a href="http://suaghemassagetainha.com/author/admin/" title="Đăng bởi admin" rel="author">admin</a></h3></div>
+                        <div class="description">
+                                                    </div>
+                    </div>
+                </div>
+                                
+                                
 
+<div id="comments" class="comments-area">
+
+    
+    
+</div><!-- #comments -->                            </div>
+        </div>
+                        
+    </div>
+    
+                                    <div class="entry-related related-slider m-t-none m-b-lg">
+                    <h2 class="entry-title">Related Posts</h2>
+                    <div class="row"><div class="post-carousel owl-carousel">
+                                                                     <div class="post-item">
+                    <div class="inner">
+                        <div class="post-image">
+                            <a href="http://suaghemassagetainha.com/thu-mua-va-ban-ghe-massage/" title="Thu mua và bán ghế massage uy tín"><img width="400" height="184" src="http://suaghemassagetainha.com/wp-content/uploads/2016/11/1-400x184.jpg" class="attachment-post-related size-post-related wp-post-image" alt="Thu mua, bán ghế massage tuy tín, giá tốt" /></a>
+                                                        <div class="figcaption">
+                                <a class="btn btn-inverse zoom-button" href="http://suaghemassagetainha.com/wp-content/uploads/2016/11/1.jpg"><span class="fa fa-search"></span></a>
+                                <a class="btn btn-inverse link-button" href="http://suaghemassagetainha.com/thu-mua-va-ban-ghe-massage/"><span class="fa fa-link fa-rotate-90"></span></a>
+                            </div>
+                                
                         </div>
+                        <div class="post-title">
+                            <a href="http://suaghemassagetainha.com/thu-mua-va-ban-ghe-massage/" title="Thu mua và bán ghế massage uy tín">Thu mua và bán ghế massage uy tín</a>
+                        </div>
+                        <p>Trung Tâm Bảo Hành-Sửa Chữa Ghế Massage (SCMS)
+
+Thu mua và bán ghế massage uy</p>
+                        <div class="entry-meta clearfix">
+                            <div class="left">
+                                <a class="read-more" href="http://suaghemassagetainha.com/thu-mua-va-ban-ghe-massage/" title="Thu mua và bán ghế massage uy tín">Read More</a>
+                            </div>
+                            <div class="right">
+                                <span class="meta-date">16/11/2016</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                                                                                        <div class="post-item">
+                    <div class="inner">
+                        <div class="post-image">
+                            <a href="http://suaghemassagetainha.com/ban-ghe-massage-poongsan/" title="Bán ghế masage hiệu POONGSAN"><img width="360" height="184" src="http://suaghemassagetainha.com/wp-content/uploads/2016/07/sua-ghe-massage-uy-tin-remote-360x184.jpg" class="attachment-post-related size-post-related wp-post-image" alt="sua-ghe-massage-uy-tin-remote" /></a>
+                                                        <div class="figcaption">
+                                <a class="btn btn-inverse zoom-button" href="http://suaghemassagetainha.com/wp-content/uploads/2016/07/sua-ghe-massage-uy-tin-remote.jpg"><span class="fa fa-search"></span></a>
+                                <a class="btn btn-inverse link-button" href="http://suaghemassagetainha.com/ban-ghe-massage-poongsan/"><span class="fa fa-link fa-rotate-90"></span></a>
+                            </div>
+                                
+                        </div>
+                        <div class="post-title">
+                            <a href="http://suaghemassagetainha.com/ban-ghe-massage-poongsan/" title="Bán ghế masage hiệu POONGSAN">Bán ghế masage hiệu POONGSAN</a>
+                        </div>
+                        <p>Bán ghế masage hiệu POONGSAN.
+Dòng ghế massage cao cấp, rất nhiều động tác: xoa,</p>
+                        <div class="entry-meta clearfix">
+                            <div class="left">
+                                <a class="read-more" href="http://suaghemassagetainha.com/ban-ghe-massage-poongsan/" title="Bán ghế masage hiệu POONGSAN">Read More</a>
+                            </div>
+                            <div class="right">
+                                <span class="meta-date">18/07/2016</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                                        
+                               
+                    </div></div>
+                </div>
+                        
+                
+    </div>
 
                                                             </div><!-- end main content -->
                     
                                         <div class="col-sm-4 col-md-3 sidebar left-sidebar"><!-- main sidebar -->
-                        <aside id="pages-2" class="widget widget_pages"><h3 class="widget-title">Dịch Vụ Sữa Chữa</h3>		<ul>
-			<li class="page_item page-item-2712"><a href="http://suaghemassagetainha.com/sua-chua-ghe-massage/">Sửa chữa ghế massage</a></li>
-<li class="page_item page-item-3016"><a href="http://suaghemassagetainha.com/sua-ghe-boss/">SỬA GHẾ BOSS</a></li>
-<li class="page_item page-item-2991"><a href="http://suaghemassagetainha.com/sua-ghe-buheung/">sửa ghế BUHEUNG</a></li>
-<li class="page_item page-item-2996"><a href="http://suaghemassagetainha.com/sua-ghe-dr-care/">sửa ghế dr.care</a></li>
-<li class="page_item page-item-3019"><a href="http://suaghemassagetainha.com/sua-ghe-fuyjama/">SỬA GHẾ FUYJAMA</a></li>
-<li class="page_item page-item-2988"><a href="http://suaghemassagetainha.com/sua-ghe-massage-jmg/">sửa ghế massage JMG</a></li>
-<li class="page_item page-item-3010"><a href="http://suaghemassagetainha.com/sua-ghe-massage-omika/">Sửa ghế massage OMIKA</a></li>
-<li class="page_item page-item-3008"><a href="http://suaghemassagetainha.com/sua-ghe-massage-osim/">Sửa ghế massage Osim</a></li>
-<li class="page_item page-item-3013"><a href="http://suaghemassagetainha.com/sua-ghe-massage-maxcare/">Sửa ghế maxcare</a></li>
-<li class="page_item page-item-3000"><a href="http://suaghemassagetainha.com/sua-ghe-massage-national/">Sửa ghế National</a></li>
-<li class="page_item page-item-2980"><a href="http://suaghemassagetainha.com/sua-ghe-ogawa/">Sửa ghế OGAWA</a></li>
-<li class="page_item page-item-2983"><a href="http://suaghemassagetainha.com/sua-ghe-okia/">Sửa ghế OKIA</a></li>
-<li class="page_item page-item-3005"><a href="http://suaghemassagetainha.com/sua-ghe-massage-panasonic/">Sửa ghế Panasonic</a></li>
-<li class="page_item page-item-2971"><a href="http://suaghemassagetainha.com/sua-ghe-perfect/">Sửa ghế perfect</a></li>
-<li class="page_item page-item-3021"><a href="http://suaghemassagetainha.com/sua-ghe-pinerrs/">sửa ghế PINERRS</a></li>
-<li class="page_item page-item-2974"><a href="http://suaghemassagetainha.com/sua-ghe-poongsan/">Sửa ghế Poongsan</a></li>
-<li class="page_item page-item-2977"><a href="http://suaghemassagetainha.com/sua-ghe-takashima/">sửa ghế takashima</a></li>
-<li class="page_item page-item-947"><a href="http://suaghemassagetainha.com/sua-may-chay-bo/">Sửa máy chạy bộ</a></li>
-<li class="page_item page-item-2710"><a href="http://suaghemassagetainha.com/thay-da-ghe-massage/">Thay da ghế massage</a></li>
-<li class="page_item page-item-3024"><a href="http://suaghemassagetainha.com/thay-tui-khi-ghe-massge/">Thay Túi khí Ghế massge</a></li>
-<li class="page_item page-item-3103"><a href="http://suaghemassagetainha.com/tin-tuc-sua-ghe-massage/">Tin Tức</a></li>
-<li class="page_item page-item-3027"><a href="http://suaghemassagetainha.com/trung-tam-sua-ghe-massage-o-tp-hcm/">Trung Tâm Sửa Ghế Massage o tp hcm</a></li>
-		</ul>
-		</aside>                    </div><!-- end main sidebar -->
+                        <aside id="recent_posts-widget-3" class="widget recent-posts"><h3 class="widget-title">Tin tức mới nhất</h3>        <div class="recent-posts-slider content-slider owl-carousel notitle clearfix">
+                        <div class="slide">        <div class="post-item">
+                        <a href="http://suaghemassagetainha.com/thu-mua-va-ban-ghe-massage/" title="Thu mua và bán ghế massage uy tín">
+                <img width="400" height="184" src="http://suaghemassagetainha.com/wp-content/uploads/2016/11/1-400x184.jpg" class="attachment-post-related size-post-related wp-post-image" alt="Thu mua, bán ghế massage tuy tín, giá tốt" />            </a>
+                                    <div class="post-title">
+                <a href="http://suaghemassagetainha.com/thu-mua-va-ban-ghe-massage/" title="Thu mua và bán ghế massage uy tín">Thu mua và bán ghế massage uy tín</a>
+            </div>
+                        <p>Trung Tâm Bảo Hành-Sửa Chữa Ghế Massage (SCMS)
+
+Thu mua và bán ghế massage uy</p>                        <div class="entry-meta clearfix">
+                <div class="left">
+                    <a class="read-more" href="http://suaghemassagetainha.com/thu-mua-va-ban-ghe-massage/" title="Thu mua và bán ghế massage uy tín">Read More</a>
+                </div>
+                <div class="right">
+                    <span class="meta-date">16/11/2016</span>
+                </div>
+            </div>
+                    </div>
+                                <div class="post-item">
+                                    <div class="post-title">
+                <a href="http://suaghemassagetainha.com/dich-vu-cho-thue-ghe-massage-tai-tp-ho-chi-minh/" title="Dịch vụ cho thuê ghế massage tại Tp.Hồ Chí Minh">Dịch vụ cho thuê ghế massage tại Tp.Hồ Chí Minh</a>
+            </div>
+                        <p>Đầu tiên tại Việt Nam - Dịch vụ cho thuê ghế massage tại Tp.Hồ</p>                        <div class="entry-meta clearfix">
+                <div class="left">
+                    <a class="read-more" href="http://suaghemassagetainha.com/dich-vu-cho-thue-ghe-massage-tai-tp-ho-chi-minh/" title="Dịch vụ cho thuê ghế massage tại Tp.Hồ Chí Minh">Read More</a>
+                </div>
+                <div class="right">
+                    <span class="meta-date">03/08/2016</span>
+                </div>
+            </div>
+                    </div>
+        </div>                <div class="slide">        <div class="post-item">
+                        <a href="http://suaghemassagetainha.com/ban-ghe-massage-poongsan/" title="Bán ghế masage hiệu POONGSAN">
+                <img width="360" height="184" src="http://suaghemassagetainha.com/wp-content/uploads/2016/07/sua-ghe-massage-uy-tin-remote-360x184.jpg" class="attachment-post-related size-post-related wp-post-image" alt="sua-ghe-massage-uy-tin-remote" />            </a>
+                                    <div class="post-title">
+                <a href="http://suaghemassagetainha.com/ban-ghe-massage-poongsan/" title="Bán ghế masage hiệu POONGSAN">Bán ghế masage hiệu POONGSAN</a>
+            </div>
+                        <p>Bán ghế masage hiệu POONGSAN.
+Dòng ghế massage cao cấp, rất nhiều động tác: xoa,</p>                        <div class="entry-meta clearfix">
+                <div class="left">
+                    <a class="read-more" href="http://suaghemassagetainha.com/ban-ghe-massage-poongsan/" title="Bán ghế masage hiệu POONGSAN">Read More</a>
+                </div>
+                <div class="right">
+                    <span class="meta-date">18/07/2016</span>
+                </div>
+            </div>
+                    </div>
+                        </div>        </div>
+
+        </aside><aside id="text-5" class="widget widget_text"><h3 class="widget-title">Phản hồi</h3>			<div class="textwidget">    <div class="shortcode shortcode-block  "
+        >
+            <div class="shortcode shortcode-testimonials  "
+        >
+                <div id="testimonials-1" class="content-slider owl-carousel normal single notitle  clearfix">
+            
+    <div class="shortcode testimonial content-item  "
+        >
+        <div class="testimonial-details">
+                        <div class="testimonial-title">Cool Design!</div>
+                        Thank you for your very professional and prompt response. I went to look for answers to my own questions and quickly realized that the information I was requesting was very easy to find.        </div>
+    
+                <div class="testimonial-meta clearfix">
+            <div class="testimonial-photo"><img src="http://localhost/cummins/wp-content/uploads/2014/05/testimonial_01.jpg"/></div>
+            <div class="meta-content">
+                        <a href="#" target="">                <span class="meta-name">Anna Retallic</span>
+                </a>,
+                                                <br/><span class="meta-date">2014-03-19</span>
+                            </div>
+        </div>
+    </div>
+
+    
+    <div class="shortcode testimonial content-item  "
+        >
+        <div class="testimonial-details">
+                        <div class="testimonial-title">Best Service!</div>
+                        Thank you for your very professional and prompt response. I went to look for answers to my own questions and quickly realized that the information I was requesting was very easy to find.        </div>
+    
+                <div class="testimonial-meta clearfix">
+            <div class="testimonial-photo"><img src="http://localhost/cummins/wp-content/uploads/2014/05/testimonial_02.jpg"/></div>
+            <div class="meta-content">
+                        <a href="#" target="">                <span class="meta-name">Jake Suasoo</span>
+                </a>,
+                                                <br/><span class="meta-date">2014-05-03</span>
+                            </div>
+        </div>
+    </div>
+
+    
+    <div class="shortcode testimonial content-item  "
+        >
+        <div class="testimonial-details">
+                        <div class="testimonial-title">Fast Support!</div>
+                        Thank you for your very professional and prompt response. I went to look for answers to my own questions and quickly realized that the information I was requesting was very easy to find.        </div>
+    
+                <div class="testimonial-meta clearfix">
+            <div class="testimonial-photo"><img src="http://localhost/cummins/wp-content/uploads/2014/05/testimonial_03.jpg"/></div>
+            <div class="meta-content">
+                        <a href="#" target="">                <span class="meta-name">William Genske</span>
+                </a>,
+                                                <br/><span class="meta-date">2014-04-30</span>
+                            </div>
+        </div>
+    </div>
+
+    
+        </div>        <script type="text/javascript">
+        /*<![CDATA[*/
+        jQuery(document).ready(function($) {
+            $("#testimonials-1").owlCarousel({
+                //transitionStyle : "fade",
+                autoPlay: 5000,
+                                pagination : false,
+                navigation : true,
+                navigationText: false,
+                singleItem: true, 
+                items: 3,
+                itemsDesktop: [1199, 3],
+                itemsDesktopSmall: [991, 2],
+                itemsTablet: [750, 1]
+                            });
+        })
+        /*]]>*/
+        </script>
+            </div>
+        </div>
+    </div>
+		</aside><aside id="tag_cloud-3" class="widget widget_tag_cloud"><h3 class="widget-title">Tag Cloud</h3><div class="tagcloud"><a href='http://suaghemassagetainha.com/tag/thu-mua-ghe-massage/' class='tag-link-100' title='1 chủ đề' style='font-size: 8pt;'>thu mua ghế massage</a></div>
+</aside>                    </div><!-- end main sidebar -->
                     
                                     </div>
             </div>
@@ -618,4 +829,4 @@ var js_venedor_vars = {"post_slider_zoom":"1","portfolio_slider_zoom":"1","infin
 
 Page Caching using disk: enhanced
 
- Served from: suaghemassagetainha.com @ 2018-05-21 17:39:14 by W3 Total Cache -->
+ Served from: suaghemassagetainha.com @ 2018-05-21 14:43:42 by W3 Total Cache -->
