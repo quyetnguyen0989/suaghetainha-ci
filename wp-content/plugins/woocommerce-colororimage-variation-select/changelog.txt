@@ -1,0 +1,45 @@
+***CHANGELOG***
+
+Version 1.0.8 -12 July 14
+* Improvement in global Color or image per attribute
+* 1.0.8.1 - fixed bug related to woocommerce older versions
+
+Version 1.0.7 -3 June 14
+
+* replaced green border with black border on checked for image or color.
+* fixed issue with default option selected on product load.
+* Loads default select for IE11.
+
+Version 1.0.6 -24 May 14
+
+* Fixed Compatibility issue with IE. 
+
+
+Version 1.0.5 -18 May 14
+
+* Replaced Common display type selection with Per attribute selection.
+* Improved Frontend CSS.
+
+Version 1.0.4 -17 April 14
+
+* added color or image settings on attribute edit pages.
+
+Version 1.0.3 -15 April 14
+
+* added radio button support .
+
+* many minor improvements
+
+Version 1.0.3 -16 April 14
+
+* Improved theme compatibility.
+
+* Improved CSS
+
+* Removed custom label text option .
+
+Version 1.0.1 -14 April 14
+
+* fixed bug related to variable add to cart button and p
+
+

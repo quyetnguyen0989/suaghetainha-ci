@@ -1,0 +1,38 @@
+.wcvaswatches > input[type=radio]{
+    display:none;
+
+}
+
+input[type=radio] + a.wcvaround {
+    cursor:pointer;
+    margin : 2px;
+    border: solid 0px white;
+    outline: solid 0px #9C9999;
+    outline-style:dotted;
+    line-height: 1.0000;
+}
+
+input[type=radio] + a {
+    cursor:pointer;
+    margin : 2px;
+    border: solid 2px white;
+    outline: solid 1px #9C9999;
+    outline-style:dotted;
+    line-height: 1.0000;
+}
+
+input[type=radio]:checked + a{
+    border: 3px solid black;
+}
+
+.wcvaround {
+    border-radius: 20px;
+    -moz-border-radius: 99em;
+    -webkit-border-radius: 99em;
+
+}
+
+
+
+
+

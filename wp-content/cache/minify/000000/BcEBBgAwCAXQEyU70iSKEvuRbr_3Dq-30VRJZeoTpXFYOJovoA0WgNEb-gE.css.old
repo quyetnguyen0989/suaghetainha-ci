@@ -1,0 +1,82 @@
+
+/* style.css */
+
+/* 1  */ /**
+/* 2  *|  * Main YITH WooCommerce Wishlist CSS
+/* 3  *|  *
+/* 4  *|  * @author Your Inspiration Themes
+/* 5  *|  * @package YITH WooCommerce Wishlist
+/* 6  *|  * @version 1.1.5
+/* 7  *|  */
+/* 8  */ 
+/* 9  */ 
+/* 10 */ .summary .product_meta { margin-top: 45px; }
+/* 11 */ 
+/* 12 */ /* Popup message */
+/* 13 */ #yith-wcwl-popup-message {
+/* 14 */     background: white;
+/* 15 */     border: 1px solid #CCC;
+/* 16 */     border-radius: 5px;
+/* 17 */     -webkit-border-radius: 5px;
+/* 18 */     -moz-border-radius: 5px;
+/* 19 */     line-height: 50px;
+/* 20 */     padding: 15px;
+/* 21 */     position: fixed;
+/* 22 */     text-align: center;
+/* 23 */     top: 50%;
+/* 24 */     left: 50%;
+/* 25 */     z-index: 10000; /* Thanks WP -.- */
+/* 26 */ }
+/* 27 */ 
+/* 28 */ /* Wishlist table template */
+/* 29 */ .wishlist_table {}
+/* 30 */ 
+/* 31 */ .wishlist_table tr td { text-align: center; }
+/* 32 */ .wishlist_table tr td.product-thumbnail, .wishlist_table tr td.product-name { text-align: left; }
+/* 33 */ .wishlist_table tr td.product-stock-status span.wishlist-in-stock { color: #297E29; }
+/* 34 */ .wishlist_table tr td.product-stock-status span.wishlist-out-of-stock { color: #F00; }
+/* 35 */ 
+/* 36 */ /* Wishlist buttons */
+/* 37 */ .summary .single_add_to_wishlist.button, div.product .woocommerce-price-and-add .single_add_to_wishlist.button { margin: 0px; } 
+/* 38 */ .yith-wcwl-add-to-wishlist { margin-top: 10px; }
+/* 39 */ .yith-wcwl-add-button > a i, .wishlist_table .add_to_cart.button i { margin-right: 10px; }
+/* 40 */ .wishlist_table .add_to_cart.button { margin: 0px; }
+/* 41 */ 
+/* 42 */ /* Share buttons */
+/* 43 */ .yith-wcwl-share ul {
+/* 44 */     margin-bottom: 10px;
+/* 45 */     margin-left: 0px;
+/* 46 */ }
+/* 47 */ 
+/* 48 */ .yith-wcwl-share ul, .yith-wcwl-share li { height: 21px; }
+/* 49 */ .yith-wcwl-share li, .entry-content .yith-wcwl-share li { margin-left: 0px; margin-right: 3px; }
+/* 50 */ 
+
+/* style.css */
+
+/* 51 */ .yith-wcwl-share li a {
+/* 52 */     background-position: left bottom;
+/* 53 */     display: inline-block;
+/* 54 */     width: 21px;
+/* 55 */     height: 21px;
+/* 56 */ }
+/* 57 */ 
+/* 58 */ .yith-wcwl-share li a:hover { background-position: left top; }
+/* 59 */ .yith-wcwl-share li a.facebook { background-image: url(/wp-content/plugins/yith-woocommerce-wishlist/assets/images/facebook.png); }
+/* 60 */ .yith-wcwl-share li a.twitter { background-image: url(/wp-content/plugins/yith-woocommerce-wishlist/assets/images/twitter.png); }
+/* 61 */ .yith-wcwl-share li a.pinterest { background-image: url(/wp-content/plugins/yith-woocommerce-wishlist/assets/images/pinterest.jpg); }
+/* 62 */ .yith-wcwl-share li a.googleplus { background-image: url(/wp-content/plugins/yith-woocommerce-wishlist/assets/images/googleplus.jpg); }
+/* 63 */ .yith-wcwl-share li a.email { background-image: url(/wp-content/plugins/yith-woocommerce-wishlist/assets/images/email.jpg); }
+/* 64 */ 
+/* 65 */ /* AJAX loading gif */
+/* 66 */ .yith-wcwl-add-to-wishlist .ajax-loading {
+/* 67 */     box-shadow: none !important;
+/* 68 */     -moz-box-shadow: none !important;
+/* 69 */     -webkit-box-shadow: none !important;
+/* 70 */     display: inline !important;
+/* 71 */     margin-left: 5px;
+/* 72 */     vertical-align: middle;
+/* 73 */     visibility: hidden;
+/* 74 */     width: 16px !important;
+/* 75 */     height: 16px !important;
+/* 76 */ }

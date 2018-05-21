@@ -1,0 +1,38 @@
+/* Venedor Config Styles */
+/* Created at 2015-12-10 15:52:07 */
+
+.ls-preview .price-box {
+        font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+}
+
+.ls-preview .price-box {
+    background: #dd0000;
+    color: #e82c0c;
+}
+
+.ls-preview .btn {
+        font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    border-style: solid;
+    border-color: #575a59;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    background: #575a59;
+    border-radius: 3px 3px 3px 3px;
+    color: #e8e8e8;
+}
+
+.ls-preview .btn:hover,
+.ls-preview .btn:focus {
+    border-style: solid;
+    border-color: #6dbcdb;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    background: #6dbcdb;
+    color: #ffffff;
+}
